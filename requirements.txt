@@ -1,0 +1,6 @@
+requests
+SQLAlchemy==2.0.40
+fastapi
+pydantic
+databases
+
